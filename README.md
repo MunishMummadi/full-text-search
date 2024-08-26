@@ -1,4 +1,3 @@
-```markdown
 # Full Text Search
 
 A simple full-text search engine for Wikipedia abstract dumps written in Go. This project demonstrates how to load, index, and search through Wikipedia abstract data using a custom-built indexing and search mechanism.
